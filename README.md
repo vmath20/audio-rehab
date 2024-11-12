@@ -1,4 +1,4 @@
-# Stroke Rehabilitation Hand Gesture Detection Simulator
+# Stroke Rehabilitation AI-based Sonification System
 
 ## Overview
 This project is a hand gesture detection simulator specifically designed for stroke rehabilitation therapy. The simulator provides real-time audio feedback based on hand movements, allowing users to engage in exercises that assist with neuromotor recovery. This system aims to enhance user motivation and engagement by transforming rehabilitation exercises into an interactive and enjoyable experience.
