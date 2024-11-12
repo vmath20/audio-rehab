@@ -53,7 +53,7 @@ This project is a hand gesture detection simulator specifically designed for str
 For a comprehensive guide on the simulator’s features and step-by-step usage instructions, please refer to the [User Manual](User%20Manual.pdf).
 
 ## Methodology
-This project leverages a novel AI-based gamification approach to neuromotor therapy, focusing on enhancing traditional stroke rehabilitation exercises. The system provides multi-modal feedback, integrating both visual and auditory cues to stimulate attention and motivation. For a deeper understanding, refer to the [Evaluation Paper](VMPaper.pdf) for a summary of the project's design, methods, and user evaluation.
+This project leverages a novel AI-based gamification approach to neuromotor therapy, focusing on enhancing traditional stroke rehabilitation exercises. The system provides multi-modal feedback, integrating both visual and auditory cues to stimulate attention and motivation.
 
 ## Contributing
 Contributions are welcome! To contribute:
